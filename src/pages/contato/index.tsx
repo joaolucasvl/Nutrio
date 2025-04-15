@@ -7,7 +7,7 @@ function Contato() {
         <div className="flex flex-col min-h-screen">
             <Header/>
                 <div className="flex-grow">
-
+                    <h1>Teste</h1>
                 </div>
             <Footer/>
         </div>
