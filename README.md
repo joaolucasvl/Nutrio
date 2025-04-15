@@ -10,7 +10,7 @@ Link do site: https://nutrio7.netlify.app/
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [ESLint](https://eslint.org/)
-
+- [Typescript](https://www.typescriptlang.org//)
 ---
 
 ## ⚙️ Pré-requisitos
