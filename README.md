@@ -1,6 +1,7 @@
 # 🥗 Nutrio
 
 Nutrio é uma aplicação web desenvolvida com **React** e **Vite**, com foco calcular IMC e TBM
+Link do site: https://nutrio7.netlify.app/
 
 ---
 
