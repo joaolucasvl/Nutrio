@@ -4,7 +4,7 @@ import { Footer } from "../../components/footer/Footer"
 import { Input } from "../../components/input/Input"
 import { Button } from "../../components/button/button"
 
-function calcularIMC(peso: number, altura: number): number {
+export function calcularIMC(peso: number, altura: number): number {
     const resultado = peso / ((altura / 100) * (altura / 100));
     return resultado;
 }
