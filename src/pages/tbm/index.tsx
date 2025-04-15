@@ -5,7 +5,7 @@ import { Footer } from "../../components/footer/Footer"
 import { Input } from "../../components/input/Input"
 import { Button } from "../../components/button/button"
 
-function calcularTMB(peso: number, altura: number, idade: number, sexo: string): number {
+export function calcularTMB(peso: number, altura: number, idade: number, sexo: string): number {
     if (sexo === "masculino") {
         return 66 + (13.7 * peso) + (5 * altura) - (6.8 * idade);
     } else {
