@@ -13,7 +13,7 @@ function Contato() {
                         Está buscando orientação profissional ou apoio em um projeto específico? Preencha o formulário abaixo e nossa equipe entrará em contato com você o mais breve possível.
                     </p>
 
-                    <form className="space-y-4">
+                    <form className="space-y-4 mb-40">
                         <div>
                             <label className="block text-sm font-medium text-gray-700">
                                 Nome
